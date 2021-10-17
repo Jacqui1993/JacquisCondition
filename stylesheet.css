@@ -1,0 +1,59 @@
+html{
+    background-color: #CCFFCC;
+}
+li { 
+    font-size: auto;
+    text-align: left; 
+}
+P { 
+    margin: 50px 20px;
+    font-size: 30px;
+}
+li{
+    font-size: 20px;
+}
+body {
+    margin: 40px 10px;
+    font-size:20px;
+}
+.image1 {
+    float: left;
+    margin: 20px 5px;
+    height:300px;
+    width:200px;
+    padding-right:15px;
+}
+p2 { 
+    font-style: italic;
+    font-size: 20px;
+}
+.image2 {
+    float: left;
+    margin: 20px 5px;
+    height: 200px;
+    width: 200px;
+}
+a{
+    font-size:30px;
+}
+.form-container{
+    width: 60%;
+    padding: 5pxs;
+    }
+.form-container form{
+    width: 60%;
+    }
+ label, input, textarea {
+    width: 60%;
+    padding: 10pxs;
+    }
+input, textarea{
+    padding: 10pxs;
+    }
+ #button{
+    background-color: purple;
+    color: white;
+    font-size: 100%;
+    text-transform: uppercase;
+    }
+
